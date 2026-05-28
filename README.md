@@ -50,7 +50,7 @@ A realistic video of a modern computer lab classroom filled with engineering stu
 
 ## Output
 
-https://drive.google.com/drive/folders/17TwTFl63jT21WkAfM-4mr7mdt_EUlX00
+[https://drive.google.com/drive/folders/17TwTFl63jT21WkAfM-4mr7mdt_EUlX00](https://drive.google.com/file/d/1z02vxbzX8Rs7OrvUd8H64467ePDJPbwD/view?usp=sharing)
 
 ### Deliverables
 - Concept & Storyboarding –> Define the video's purpose, audience, and key message. Create a storyboard outlining scenes and transitions.
