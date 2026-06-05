@@ -1,6 +1,6 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date: 25.06.25
+# Date: 25.06.26
 # Name: Rakesh Sivan S
 # Reg. No.:212224060203
 # Aim:
